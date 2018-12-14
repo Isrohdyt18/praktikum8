@@ -6,10 +6,10 @@
 3. Membandingkan nilai variable //output minimum dan maksimum
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Flowchart1.png)
+![Flowchart](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan1/Flowchart1.png)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Screnshoot1.png)
+![Screenshoot](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan1/Screnshoot1.png)
 
 **code program lengkap**
 '''c++
@@ -56,10 +56,10 @@ return 0;
 3. Membandingkan nilai variable HitungStatistik run;
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Flowchart2.png)
+![Flowchart](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan2/Flowchart2.png)
 
 **Screnshoot**
-![Screnshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Screnshoot2.png)
+![Screnshoot](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan2/Screnshoot2.png)
 
 **code program lengkap**
 '''c++
@@ -151,10 +151,10 @@ return 0;
 
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Flowchart3.png)
+![Flowchart](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan3/Flowchart3.png)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Screnshoot3.png)
+![Screenshoot](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan3/Screnshoot3.png)
 
 **code program lengkap**
 '''c++
@@ -272,10 +272,10 @@ return 0;
 
 
 **Flowchart Program**
-![Flowchart](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Flowchart4.png)
+![Flowchart](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan4/Flowchart4.png)
 
 **Screenshoot**
-![Screenshoot](https://raw.githubusercontent.com/tedyajadeh/praktikum8/master/Screnshoot4.png)
+![Screenshoot](https://github.com/Isrohdyt18/praktikum8/blob/master/latihan4/Screnshoot4.png)
 
 **code program lengkap**
 '''c++
